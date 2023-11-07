@@ -43,7 +43,7 @@ Information about the loan applicants, including home ownership , employment len
 
 
 ## Analysis Approach:  
-<div align="justify">To tackle this problem effectively, we establish a structured data analysis approach. The following steps outline our approach:
+<div align="justify">To tackle this problem effectively, I have established a structured data analysis approach.
 
 - Data Preprocessing:<br> 
 It includes cleaning and preparing the data for analysis, handling missing values, encoding categorical variables, dropping unnecessary columns and standardizing data.
@@ -77,7 +77,7 @@ To minimize credit losses and improve lending practices, it is recommended to:
 - Jupyter Notebook for interactive analysis
 
 ## Acknowledgements:
-- We acknowledge and appreciate the valuable course materials from upGrad and IIIT-B which enhanced our understanding of data analysis and EDA
+- I acknowledge and appreciate the valuable course materials from upGrad and IIIT-B which enhanced my understanding of data analysis and EDA
 ## References:
 - Python documentations
 - Exploratory Data Analysis
