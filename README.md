@@ -77,7 +77,7 @@ To minimize credit losses and improve lending practices, it is recommended to:
 - Jupyter Notebook for interactive analysis
 
 ## Acknowledgements:
-- I acknowledge and appreciate the valuable course materials from upGrad and IIIT-B which enhanced my understanding of data analysis and EDA
+- I acknowledge and appreciate the valuable course materials from my university which enhanced my understanding of data analysis and EDA
 ## References:
 - Python documentations
 - Exploratory Data Analysis
